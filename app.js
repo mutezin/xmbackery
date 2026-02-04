@@ -24,3 +24,6 @@ app.post("/insert", (req,res)=>{
     res.send(result)
    }) 
 })
+
+//delete endpoint
+
